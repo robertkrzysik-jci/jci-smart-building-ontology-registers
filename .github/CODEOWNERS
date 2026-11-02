@@ -1,2 +1,5 @@
-/data/ @your-org/jci-smart-building-ontology-maintainers
-/docs/ @your-org/jci-smart-building-ontology-maintainers
+/data/ @robertkrzysik-jci
+/docs/ @robertkrzysik-jci
+/schema/ @robertkrzysik-jci
+/scripts/ @robertkrzysik-jci
+/.github/ @robertkrzysik-jci
