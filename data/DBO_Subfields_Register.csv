@@ -1,5 +1,5 @@
-cat number,category,subfield,definition,status,source
-1,aggregation,average,"Average value; the arithmetic mean of a set of numeric values (e.g., average_zone_air_temperature_sensor is a spatial aggregation of multiple zone temperature sensors).",approved,JCI Subfields - JCI.xlsx
+category,subfield,definition,status,source
+aggregation,average,"Average value; the arithmetic mean of a set of numeric values (e.g., average_zone_air_temperature_sensor is a spatial aggregation of multiple zone temperature sensors).",approved,JCI Subfields - JCI.xlsx
 aggregation,max,"Maximum value; the largest value in a set of numeric values. Can be used for spatial (e.g., max_zone_air_co2_concentration_sensor) or temporal (e.g., tenminutefixed_max_xaxis_frequency_sensor) aggregations.",approved,JCI Subfields - JCI.xlsx
 aggregation,min,"Minimum value; the smallest value in a set of numeric values. Can be used for spatial (e.g., min_zone_air_relative_humidity_sensor) or temporal (e.g., fivesecondrolling_min_xaxis_linearacceleration_sensor) aggregations.",approved,JCI Subfields - JCI.xlsx
 aggregation,rootmeansquare,Square root of the mean square (quadratic mean); measures the magnitude of a set of values.,approved,JCI Subfields - JCI.xlsx
