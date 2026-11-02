@@ -1,0 +1,3 @@
+point_name,entity_abbreviation,status,notes
+discharge_air_temperature_sensor,AHU,example,DBO-style point name using underscores
+daily_average_zone_air_temperature_sensor,AHU,example,Aggregation descriptor and aggregation included

@@ -1,0 +1,377 @@
+category,subfield,definition,status,source
+aggregation,average,"Average value; the arithmetic mean of a set of numeric values (e.g., average_zone_air_temperature_sensor is a spatial aggregation of multiple zone temperature sensors).",approved,JCI Subfields - JCI.xlsx
+aggregation,max,"Maximum value; the largest value in a set of numeric values. Can be used for spatial (e.g., max_zone_air_co2_concentration_sensor) or temporal (e.g., tenminutefixed_max_xaxis_frequency_sensor) aggregations.",approved,JCI Subfields - JCI.xlsx
+aggregation,min,"Minimum value; the smallest value in a set of numeric values. Can be used for spatial (e.g., min_zone_air_relative_humidity_sensor) or temporal (e.g., fivesecondrolling_min_xaxis_linearacceleration_sensor) aggregations.",approved,JCI Subfields - JCI.xlsx
+aggregation,rootmeansquare,Square root of the mean square (quadratic mean); measures the magnitude of a set of values.,approved,JCI Subfields - JCI.xlsx
+aggregation,total,Sum total of some set of values (e.g. total_request_heating_count),approved,JCI Subfields - JCI.xlsx
+aggregation_descriptor,fivesecondrolling,Aggregation over advancing time intervals of five seconds.,approved,JCI Subfields - JCI.xlsx
+aggregation_descriptor,thirtysecondrolling,Aggregation over advancing thirty second time interval.,approved,JCI Subfields - JCI.xlsx
+aggregation_descriptor,tenminutefixed,Aggregation over fixed time intervals of ten minutes.,approved,JCI Subfields - JCI.xlsx
+component,battery,"A device used to store power for use at a later time (e.g., in an emergency where grid power is unavailable).",approved,JCI Subfields - JCI.xlsx
+component,bearing,Machine element that constrains relative motion to only the desired motion and reduces friction between moving parts.,approved,JCI Subfields - JCI.xlsx
+component,cable,"A length of wire, sometimes shielded externally, used for some purpose (e.g., steel braided wire for tensile support, CAT5 cable for communications).",approved,JCI Subfields - JCI.xlsx
+component,circuitbreaker,An electrical safety device designed to protect an electrical circuit from damage by short circuit or overload.,approved,JCI Subfields - JCI.xlsx
+component,coil,Component that exchanges heat between two media streams.,approved,JCI Subfields - JCI.xlsx
+component,compressor,Component which drives refrigerant compression (and thus cooling processes) within a device or system.,approved,JCI Subfields - JCI.xlsx
+component,condenser,"The component of a refrigeration system that condenses refrigerant through the removal of heat (i.e., refrigerant vapor is condensed into liquid through the removal of heat).",approved,JCI Subfields - JCI.xlsx
+component,controller,"Control loop, such as a PID controller.",approved,JCI Subfields - JCI.xlsx
+component,cooler,"Device used to cool product or media (e.g., walk-in food cooler).",approved,JCI Subfields - JCI.xlsx
+component,damper,Component which meters the flow of air within a system or device.,approved,JCI Subfields - JCI.xlsx
+component,dehumidifier,Device used to dehumidify air (typically though the removal of heat from the air).,approved,JCI Subfields - JCI.xlsx
+component,device,The core equipment being represented by the Field groupings.,approved,JCI Subfields - JCI.xlsx
+component,dial,"Adjustment device (e.g., setpoint dial).",approved,JCI Subfields - JCI.xlsx
+component,dimmer,A device which can reduce lighting output of a lamp (thus 'dimming' the light).,approved,JCI Subfields - JCI.xlsx
+component,dishwasher,Device that washes dishes.,approved,JCI Subfields - JCI.xlsx
+component,dryer,A component used for drying clothes.,approved,JCI Subfields - JCI.xlsx
+component,evaporator,"The component of a refrigeration system that evaporates refrigerant by adding heat (i.e., refrigerant liquid evaporates into vapor when heat from the surrounding air/water is transferred to it).",approved,JCI Subfields - JCI.xlsx
+component,fan,Component used for the distribution of air.,approved,JCI Subfields - JCI.xlsx
+component,filter,Component used for removing dust and other particulate matter from the air.,approved,JCI Subfields - JCI.xlsx
+component,guidevane,Control vanes that meter refrigerant (on a centrifugal chiller) or air (on an AHU).,approved,JCI Subfields - JCI.xlsx
+component,generator,Component that converts motive power into electric power for use in an external circuit.,approved,JCI Subfields - JCI.xlsx
+component,heater,Component which provides heat to media (typically through the combustion of gas or electric resistance).,approved,JCI Subfields - JCI.xlsx
+component,humidifier,Component which humidifies (typically by adding water vapor to the air).,approved,JCI Subfields - JCI.xlsx
+component,inverter,"Device or circuitry that changes direct current to alternating current (e.g., variable frequency drive).",approved,JCI Subfields - JCI.xlsx
+component,lamp,The component of a lighting device that emits the light.,approved,JCI Subfields - JCI.xlsx
+component,louver,A device comprising multiple blades that regulates the flow of air.,approved,JCI Subfields - JCI.xlsx
+component,luminaire,"Complete lighting unit, consisting of one or more lamps, their socket/holders, wiring and optics such as lenses and reflectors to distribute the light.",approved,JCI Subfields - JCI.xlsx
+component,motor,"A machine, especially one powered by electricity or internal combustion, that supplies motive power for a vehicle or for some other device with moving parts.",approved,JCI Subfields - JCI.xlsx
+component,pump,"Component used for the distribution of liquid media (e.g., water, glycol).",approved,JCI Subfields - JCI.xlsx
+component,rectifier,Component that converts alternating current to direct current.,approved,JCI Subfields - JCI.xlsx
+component,riser,"A central (typically vertical) supply pipe or duct that distributes media (e.g., water, air) to multiple floors of a building.",approved,JCI Subfields - JCI.xlsx
+component,scrubber,An equipment that is used to remove harmful materials from exhaust air before they are released into the environment,approved,JCI Subfields - JCI.xlsx
+component,shade,Window covering (typically used to regulate the amount of sunlight coming through the window).,approved,JCI Subfields - JCI.xlsx
+component,sump,An area where water is temporarily collected for recirculation or drainage purposes.,approved,JCI Subfields - JCI.xlsx
+component,switch,Component to disrupt an electrical cirucit.,approved,JCI Subfields - JCI.xlsx
+component,tank,"Storage device for media; for example, a thermal storage tank in a heating water system.",approved,JCI Subfields - JCI.xlsx
+component,transformer,"An electrical device which, by the principles of electromagnetic induction, transfers electrical energy from one electric circuit to another.",approved,JCI Subfields - JCI.xlsx
+component,valve,Component which meters the flow of water within a system or device.,approved,JCI Subfields - JCI.xlsx
+component,vane,"Component for guiding media (e.g., water, air) flow in a specific direction.",approved,JCI Subfields - JCI.xlsx
+component,wheel,"Component used for transfer of heat from incoming to outgoing air streams (i.e., a heat wheel in a DOAS unit).",approved,JCI Subfields - JCI.xlsx
+component,winding,Conductive wires wrapped around a magnetic core.,approved,JCI Subfields - JCI.xlsx
+descriptor,air,"Atmospheric air, either conditioned or unconditioned.",approved,JCI Subfields - JCI.xlsx
+descriptor,aisle,Passage between two rows of server racks.,approved,JCI Subfields - JCI.xlsx
+descriptor,ac,Electric charge which periodically reverses direction and changes its magnitude continuously with time.,approved,JCI Subfields - JCI.xlsx
+descriptor,ammonia,Ammonia gas.,approved,JCI Subfields - JCI.xlsx
+descriptor,blowdown,Process of expelling water filled with mineral deposits for the purposes of water treatment.,approved,JCI Subfields - JCI.xlsx
+descriptor,blue,Blue light fracture of ambient light.,approved,JCI Subfields - JCI.xlsx
+descriptor,boost,"The amplification of a object or media; for example, a booster pump is used to increase the speed of the water flowing through it.",approved,JCI Subfields - JCI.xlsx
+descriptor,broken,A state of disrepair; fractured or segmented.,approved,JCI Subfields - JCI.xlsx
+descriptor,building,"Applies to the entire building or group of zones within building (e.g., building_air_static_pressure_sensor).",approved,JCI Subfields - JCI.xlsx
+descriptor,bypass,Route which fluid takes to bypass a process.,approved,JCI Subfields - JCI.xlsx
+descriptor,calendar,"A system structured around the days, weeks, and the months, used to manage schedules.",approved,JCI Subfields - JCI.xlsx
+descriptor,call,An action of speaking or meeting among multiple people.,approved,JCI Subfields - JCI.xlsx
+descriptor,carbon,"Nonmetallic chemical element with the atomic number of six (e.g., graphite).",approved,JCI Subfields - JCI.xlsx
+descriptor,changeover,"Connecting to a different equipment circuit (e.g., switching between chiller and hot water).",approved,JCI Subfields - JCI.xlsx
+descriptor,chilled,Cold water (typically 40 - 50F).,approved,JCI Subfields - JCI.xlsx
+descriptor,cie,Abbreviation for the International Commission on Illumination (CIE light color schema).,approved,JCI Subfields - JCI.xlsx
+descriptor,circulation,"Process or component used to circulate fluid through a device or system; for exmaple, a circulation pump onboard a boiler.",approved,JCI Subfields - JCI.xlsx
+descriptor,co,Chemical formula and abbreviation for carbon monoxide.,approved,JCI Subfields - JCI.xlsx
+descriptor,co2,Chemical formula and abbreviation for carbon dioxide.,approved,JCI Subfields - JCI.xlsx
+descriptor,cogeneration,The process of generating both thermal heat and electricity.,approved,JCI Subfields - JCI.xlsx
+descriptor,cold,Used to describe something at a low (or relatively low) temperature.,approved,JCI Subfields - JCI.xlsx
+descriptor,color,Physical perceptual property of light deriving from the electromagnetic spectrum.,approved,JCI Subfields - JCI.xlsx
+descriptor,common,Aggregate or collective measurement of substance coming from multiple sources.,approved,JCI Subfields - JCI.xlsx
+descriptor,communication,Actual transmit and recieve of data or connectivity between devices.,approved,JCI Subfields - JCI.xlsx
+descriptor,condensate,"Liquid that acculates on surfaces as a byproduct of condensation (i.e., water vapor condensing into liquid)",approved,JCI Subfields - JCI.xlsx
+descriptor,condensing,The process of a gas (or vapor) changing to liquid.,approved,JCI Subfields - JCI.xlsx
+descriptor,conditioning,Treatment of a medium.,approved,JCI Subfields - JCI.xlsx
+descriptor,conference,An instance of speaking or meeting among multiple people.,approved,JCI Subfields - JCI.xlsx
+descriptor,control,The process of governing the actions of a device.,approved,JCI Subfields - JCI.xlsx
+descriptor,cooling,"Process, measured effect or requirement for cooling.",approved,JCI Subfields - JCI.xlsx
+descriptor,dc,"Abbreviation for direct current, which is a one-directional flow of electric charge.",approved,JCI Subfields - JCI.xlsx
+descriptor,defrost,De-freezing ice from a surface.,approved,JCI Subfields - JCI.xlsx
+descriptor,dehumidification,Process of removing moisture from air.,approved,JCI Subfields - JCI.xlsx
+descriptor,detection,Process of identifying conditions.,approved,JCI Subfields - JCI.xlsx
+descriptor,detergent,Water-soluble cleansing agent.,approved,JCI Subfields - JCI.xlsx
+descriptor,direction,Direction in which particular entity is moving or is present.,approved,JCI Subfields - JCI.xlsx
+descriptor,discharge,Media leaving system to enter ambient conditioned space. Typically applies only to air-side systems.,approved,JCI Subfields - JCI.xlsx
+descriptor,diverting,Controlling the flow of fluids or gases by diverting the flow from one pathway to another.,approved,JCI Subfields - JCI.xlsx
+descriptor,drain,Media drained from system; typically applied to water-side system ,approved,JCI Subfields - JCI.xlsx
+descriptor,dutycycle,The fraction of one period in which a signal or system is active.,approved,JCI Subfields - JCI.xlsx
+descriptor,east,Cardinal direction; opposite of west.,approved,JCI Subfields - JCI.xlsx
+descriptor,economizer,Process or component responsible for the utilization of free cooling.,approved,JCI Subfields - JCI.xlsx
+descriptor,electric,"Process or component driven by electricity (as to distinguish from natural gas, for instance).",approved,JCI Subfields - JCI.xlsx
+descriptor,electricalgrid,An interconnected network for electricity delivery from producers to consumers.,approved,JCI Subfields - JCI.xlsx
+descriptor,electrostatic,Attractive or repulsive forces between particles that are caused by their electric charges.,approved,JCI Subfields - JCI.xlsx
+descriptor,email,A unique identifier address in the Internet.,approved,JCI Subfields - JCI.xlsx
+descriptor,emergency,"An situation that poses an immediate risk to health, life, property, or environment.",approved,JCI Subfields - JCI.xlsx
+descriptor,entering,"The process of going into a thing (e.g., water entering a heat exchanger).",approved,JCI Subfields - JCI.xlsx
+descriptor,evaporative,Process associated with the evaporation of water or other media (i.e. a liquid turning into a vapor).,approved,JCI Subfields - JCI.xlsx
+descriptor,event,A thing of occasion that happens.,approved,JCI Subfields - JCI.xlsx
+descriptor,exchange,"The act of giving somethng and receiving something else; for example, the transfer of heat from one fluid stream to another.",approved,JCI Subfields - JCI.xlsx
+descriptor,exercise,Mode of running equipment to maintain functionality ('exercise mode').,approved,JCI Subfields - JCI.xlsx
+descriptor,exhaust,Process or component used in the removal of air from a conditioned system to the outside atmosphere.,approved,JCI Subfields - JCI.xlsx
+descriptor,expansion,Process of increasing the volume of a liquid.,approved,JCI Subfields - JCI.xlsx
+descriptor,fabric,Textile material.,approved,JCI Subfields - JCI.xlsx
+descriptor,failed,Indicates that a point is not operating as intended or is incapable of operating.,approved,JCI Subfields - JCI.xlsx
+descriptor,filtration,Process of filtering contaminating elements from equipment or a system.,approved,JCI Subfields - JCI.xlsx
+descriptor,fire,The combustion or burning of substances with the potential to cause physical damage.,approved,JCI Subfields - JCI.xlsx
+descriptor,floor,Lower surface of a room or zone.,approved,JCI Subfields - JCI.xlsx
+descriptor,flue,Chimney for conveying exhaust gas.,approved,JCI Subfields - JCI.xlsx
+descriptor,formaldehyde,"A simple, pungent organic compound (gas under standard conditions), simplest of the aldehydes.",approved,JCI Subfields - JCI.xlsx
+descriptor,frost,"The byproduct of freezing (i.e., liquid water turning into a solid on a surface).",approved,JCI Subfields - JCI.xlsx
+descriptor,gas,Process or component driven by natural gas (as to distinguish from electric).,approved,JCI Subfields - JCI.xlsx
+descriptor,glycol,Liquid mixture consisting of glycol and water; typically used to increase the heat transfer abilities of traditional water.,approved,JCI Subfields - JCI.xlsx
+descriptor,green,Green light fracture of ambient light,approved,JCI Subfields - JCI.xlsx
+descriptor,ground,The solid surface of the earth.,approved,JCI Subfields - JCI.xlsx
+descriptor,group,A set of entities or devices,approved,JCI Subfields - JCI.xlsx
+descriptor,guide,"To direct the course or movement of a media; for example, a vane is used to guide the flow of air.",approved,JCI Subfields - JCI.xlsx
+descriptor,h2,Chemical formula and abbreviation for hydrogen.,approved,JCI Subfields - JCI.xlsx
+descriptor,h2s,Chemical formula and abbreviation for hydrogen sulfide.,approved,JCI Subfields - JCI.xlsx
+descriptor,hash,A computed value that is converted from an original value.,approved,JCI Subfields - JCI.xlsx
+descriptor,heat,Quality of media indicating energy level.,approved,JCI Subfields - JCI.xlsx
+descriptor,heating,"Process, measured effect or requirement for heating.",approved,JCI Subfields - JCI.xlsx
+descriptor,high,Level of control or measurement; above medium and low; opposite of low.,approved,JCI Subfields - JCI.xlsx
+descriptor,hot,Used to describe something at a high (or relatively high) temperature.,approved,JCI Subfields - JCI.xlsx
+descriptor,hsl,"Abbreviation for hue, saturation, and lightness; typically used in light color control.",approved,JCI Subfields - JCI.xlsx
+descriptor,humidification,Process of adding moisture to air.,approved,JCI Subfields - JCI.xlsx
+descriptor,id,An identification or identifier.,approved,JCI Subfields - JCI.xlsx
+descriptor,inlet,Area of media entrance.,approved,JCI Subfields - JCI.xlsx
+descriptor,inhibit,Prohibit from executing a function or starting an operation.,approved,JCI Subfields - JCI.xlsx
+descriptor,injection,"A process that introduces a substance, such as refrigerant, water, or air, into the system by using pressure or vacuum, to enhance performance, improve efficiency, or maintain proper operation.",approved,JCI Subfields - JCI.xlsx
+descriptor,input,The input to a system.,approved,JCI Subfields - JCI.xlsx
+descriptor,intensity,"The relative magnitude or strength of something (i.e., high_intensity_* indicates something is strong or forceful).",approved,JCI Subfields - JCI.xlsx
+descriptor,inter,"Represents something in between references (e.g. average_inter_line_voltage, the average voltage between lines).",approved,JCI Subfields - JCI.xlsx
+descriptor,isolation,Process of isolating one component or process from another.,approved,JCI Subfields - JCI.xlsx
+descriptor,leak,Media leaving the system abnormally.,approved,JCI Subfields - JCI.xlsx
+descriptor,leaving,Area where media leaves process.,approved,JCI Subfields - JCI.xlsx
+descriptor,lighting,Illumination of a room.,approved,JCI Subfields - JCI.xlsx
+descriptor,limit,"A boundary condition for a control (e.g., low limit).",approved,JCI Subfields - JCI.xlsx
+descriptor,line,"Refers to the incoming electrical feed (e.g., line current).",approved,JCI Subfields - JCI.xlsx
+descriptor,liquid,"A state of matter that flows and takes the form of its container, but which changes its volume very little with changes in pressure.",approved,JCI Subfields - JCI.xlsx
+descriptor,load,Electrical load which indicates the consumption of electrical power.,approved,JCI Subfields - JCI.xlsx
+descriptor,local,A definite spatial location involving only a subset of the larger surrounding area.,approved,JCI Subfields - JCI.xlsx
+descriptor,loop,Recirculating loop.,approved,JCI Subfields - JCI.xlsx
+descriptor,low,Level of control or measurement; below medium and high; opposite of high.,approved,JCI Subfields - JCI.xlsx
+descriptor,maintenance,Status of a device out of order.,approved,JCI Subfields - JCI.xlsx
+descriptor,makeup,"Process of adding (\""making-up\"") water that has been lost due to blowdown or evaporation.",approved,JCI Subfields - JCI.xlsx
+descriptor,manufacturer,The company which produces the asset or device.,approved,JCI Subfields - JCI.xlsx
+descriptor,matched,"A collection of things that are put together as being equal, similar, or complementary.",approved,JCI Subfields - JCI.xlsx
+descriptor,master,"Highest priority (or primary control) device, sensor, etc.",approved,JCI Subfields - JCI.xlsx
+descriptor,mechanical,A process driven by machinery; specifically applied to cooling processes (e. g. using a refrigeration cycle for cooling).,approved,JCI Subfields - JCI.xlsx
+descriptor,medium,Level of control or measurement; between high and low.,approved,JCI Subfields - JCI.xlsx
+descriptor,message,A communication sent to or left for a recipient.,approved,JCI Subfields - JCI.xlsx
+descriptor,mixed,Process or component used to mix multiple streams of air.,approved,JCI Subfields - JCI.xlsx
+descriptor,mixing,Process of mixing substance.,approved,JCI Subfields - JCI.xlsx
+descriptor,model,Particular design version of an asset (e.g. model_label).,approved,JCI Subfields - JCI.xlsx
+descriptor,neutral,Line in the electrical cirucit which carries current back to the source. Distinct from ground.,approved,JCI Subfields - JCI.xlsx
+descriptor,next,Something that occurs directly in time after the present or most recent one.,approved,JCI Subfields - JCI.xlsx
+descriptor,no,"Chemical formula and abbreviation for nitrogen monoxide, which is a colorless gas and a toxic air pollutant.",approved,JCI Subfields - JCI.xlsx
+descriptor,no2,Chemical formula and abbreviation for nitrogen dioxide.,approved,JCI Subfields - JCI.xlsx
+descriptor,north,Cardinal direction; opposite of south,approved,JCI Subfields - JCI.xlsx
+descriptor,nox,"Abbreviation for nitrogen oxides, which are a group of gases that are composed of nitrogen and oxygen.",approved,JCI Subfields - JCI.xlsx
+descriptor,occupancy,State of being occupied.,approved,JCI Subfields - JCI.xlsx
+descriptor,occupied,State of being within scheduled (time of day or week) run-time parameters.,approved,JCI Subfields - JCI.xlsx
+descriptor,oil,"A viscous liquid derived from petroleum, especially for use as a fuel or lubricant.",approved,JCI Subfields - JCI.xlsx
+descriptor,ongoing,"Hapenning currently, right now.",approved,JCI Subfields - JCI.xlsx
+descriptor,output,The output of a control loop (e.g. PID loop output).,approved,JCI Subfields - JCI.xlsx
+descriptor,outside,Process or measurement of local atmospheric conditions.,approved,JCI Subfields - JCI.xlsx
+descriptor,over,Refering to exceeding the required or expected,approved,JCI Subfields - JCI.xlsx
+descriptor,overload,An electrical load that exceeds available electrical power.,approved,JCI Subfields - JCI.xlsx
+descriptor,override,"An action that interrupts, cancels, or changes the current action or status.",approved,JCI Subfields - JCI.xlsx
+descriptor,ozone,Highly reactive gaseous compound comprised of three oxygen atoms.,approved,JCI Subfields - JCI.xlsx
+descriptor,panel,An interface to control a device.,approved,JCI Subfields - JCI.xlsx
+descriptor,particle,A very fine clump of solid matter.,approved,JCI Subfields - JCI.xlsx
+descriptor,phase,A phase of three-phase power distribution systems.,approved,JCI Subfields - JCI.xlsx
+descriptor,phase1,The first (nominally A) phase of three-phase power distribution systems.,approved,JCI Subfields - JCI.xlsx
+descriptor,phase2,The second (nominally B) phase of three-phase power distribution systems.,approved,JCI Subfields - JCI.xlsx
+descriptor,phase3,The third (nominally C) phase of three-phase power distribution systems.,approved,JCI Subfields - JCI.xlsx
+descriptor,photocatalyst,a material that uses absorbed light energy (usually UV) to drive desired reactions that would not otherwise proceed under ambient conditions,approved,JCI Subfields - JCI.xlsx
+descriptor,pm0pt5,Particulate of diameter 0.5 micrometers or less.,approved,JCI Subfields - JCI.xlsx
+descriptor,pm1pt0,Particulate of diameter 1.5 micrometers or less.,approved,JCI Subfields - JCI.xlsx
+descriptor,pm2pt5,Particulate of diameter 2.5 micrometers or less.,approved,JCI Subfields - JCI.xlsx
+descriptor,pm4pt0,Particulate of diameter 4.0 micrometers or less.,approved,JCI Subfields - JCI.xlsx
+descriptor,pm10pt0,Particulate of diameter 10.0 micrometers or less.,approved,JCI Subfields - JCI.xlsx
+descriptor,potable,Used to describe water that is of high enough quality and is safe for human consumption.,approved,JCI Subfields - JCI.xlsx
+descriptor,preheating,"Process of heating media before another process; for example, outside air is pre-heated before being discharged to the space.",approved,JCI Subfields - JCI.xlsx
+descriptor,pressurization,Relating to the level of pressure in a system or vessel.,approved,JCI Subfields - JCI.xlsx
+descriptor,primary,Associated with the primary (production) loop of a production process.,approved,JCI Subfields - JCI.xlsx
+descriptor,process,Act of processing.,approved,JCI Subfields - JCI.xlsx
+descriptor,production,The loop in a system that is responsible for the conditioning of fluid.,approved,JCI Subfields - JCI.xlsx
+descriptor,program,"Embedded, encoded instructions for the automatic performance of a task; typically within a controller.",approved,JCI Subfields - JCI.xlsx
+descriptor,protection,Act of preventing damage to object.,approved,JCI Subfields - JCI.xlsx
+descriptor,purge,"The act of removing impurities or contaminants from a space or system during particular phases of operation. For example, when purging a zone during morning warm up using additional ventilation air.",approved,JCI Subfields - JCI.xlsx
+descriptor,rain,Liquid water in the form of droplets that have condensed from atmospheric water vapor.,approved,JCI Subfields - JCI.xlsx
+descriptor,recirculation,A process of moving a substance through a system or loop more than once to achieve a desired condition.,approved,JCI Subfields - JCI.xlsx
+descriptor,recovery,Component or process used for the reclamation of heat.,approved,JCI Subfields - JCI.xlsx
+descriptor,red,Red light fracture of ambient light.,approved,JCI Subfields - JCI.xlsx
+descriptor,release,"To free from constraints (e.g., to release the door from its magnetic lock).",approved,JCI Subfields - JCI.xlsx
+descriptor,refrigerant,"Substance used in the mechanical refrigeration process (e.g., R-134a)",approved,JCI Subfields - JCI.xlsx
+descriptor,remaining,"The amount of something that is left at some point in a process (e.g., the remaining charge a battery has left).",approved,JCI Subfields - JCI.xlsx
+descriptor,request,"A signal from a system device that calls for more of a particular conditioning process (e.g., pressure requests from terminal units).",approved,JCI Subfields - JCI.xlsx
+descriptor,return,Measurement or process of media as it is returned from the end-use equipment within the system.,approved,JCI Subfields - JCI.xlsx
+descriptor,reversing,"Reverses direction of flow (e.g., the reversing valve on a heat pump changes the direction that the refrigerant flows around the circuit).",approved,JCI Subfields - JCI.xlsx
+descriptor,room,"A space that can be occupied, or a part or division of a building or floor enclosed by walls.",approved,JCI Subfields - JCI.xlsx
+descriptor,scene,The holistic ambience achieved from coordinated control of an area's lighting levels and colors. One of many stored setpoints that may be recalled to apply predetermined lighting levels across a number of fixtures.,approved,JCI Subfields - JCI.xlsx
+descriptor,schedule,Refers to the time-of-day run-time requirements for the equipment.,approved,JCI Subfields - JCI.xlsx
+descriptor,season,Weather conditions under which certain systems or processes are enabled.,approved,JCI Subfields - JCI.xlsx
+descriptor,secondary,Associated with the secondary (distribution) loop of a produciton process.,approved,JCI Subfields - JCI.xlsx
+descriptor,seismic,Related to seismic activity (such as seismic gas shutoff valves).,approved,JCI Subfields - JCI.xlsx
+descriptor,side,Position relative to an an object.,approved,JCI Subfields - JCI.xlsx
+descriptor,signal,An electric current or electromagnetic field used to convey data from one device to another.,approved,JCI Subfields - JCI.xlsx
+descriptor,smoke,"Visible, suspended particles created during a fire.",approved,JCI Subfields - JCI.xlsx
+descriptor,so2,Chemical formula and abbreviation for sulfur dioxide.,approved,JCI Subfields - JCI.xlsx
+descriptor,source,The upstream source of thermal heat (typically used for heat exchangers).,approved,JCI Subfields - JCI.xlsx
+descriptor,source1,Redundant power source 1 provision typically for an automatic transfer switch (ATS).,approved,JCI Subfields - JCI.xlsx
+descriptor,source2,Redundant power source 2 provision typically for an automatic transfer switch (ATS).,approved,JCI Subfields - JCI.xlsx
+descriptor,south,Cardinal direction; opposite of north,approved,JCI Subfields - JCI.xlsx
+descriptor,southeast,Inter-cardinal direction between South and East.,approved,JCI Subfields - JCI.xlsx
+descriptor,southwest,Inter-cardinal direction between South and West.,approved,JCI Subfields - JCI.xlsx
+descriptor,spray,Stream of (typically water) vapor that is blown through the air.,approved,JCI Subfields - JCI.xlsx
+descriptor,stage,"Discrete step (i.e., stage) of device activity (such as heating and cooling outputs).",approved,JCI Subfields - JCI.xlsx
+descriptor,startup,Event of engaging a device or equipment.,approved,JCI Subfields - JCI.xlsx
+descriptor,steam,"The gaseous form of water (i.e., water vapor) that is created through heating liquid water.",approved,JCI Subfields - JCI.xlsx
+descriptor,strength,Relative quality and/or intensity.,approved,JCI Subfields - JCI.xlsx
+descriptor,suction,The production of a partial vacuum in order to force fluid into a vacant space (such as refrigerant in a compressor).,approved,JCI Subfields - JCI.xlsx
+descriptor,summer,"Method or process used during warmer weather (i.e., summer season).",approved,JCI Subfields - JCI.xlsx
+descriptor,supervisor,"A program that controls a device from a supervisory (i.e., remote or external) level.",approved,JCI Subfields - JCI.xlsx
+descriptor,supply,Measurement or process of media as it is supplied to the end-use equipment within the system.,approved,JCI Subfields - JCI.xlsx
+descriptor,suppression,"The act of preventing something. For example, a range of fire-fighting tactics used to suppress fire.",approved,JCI Subfields - JCI.xlsx
+descriptor,standby,"A state of waiting to secure an unreserved place for a journey or performance, allocated on the basis of earliest availability.",approved,JCI Subfields - JCI.xlsx
+descriptor,sweeper,Action performed in a sump to prevent sediment build-up via water turbulence.,approved,JCI Subfields - JCI.xlsx
+descriptor,sync,The simultaneous operation or activity of two or more things.,approved,JCI Subfields - JCI.xlsx
+descriptor,tamper,"To interfere with (something, eg. a device) in order to cause damage or make unauthorized alterations.",approved,JCI Subfields - JCI.xlsx
+descriptor,tertiary,Associated with the tertiary (peripheral) loops of a production process.,approved,JCI Subfields - JCI.xlsx
+descriptor,totaldissolvedsolids,"Total dissolved solids (TDS) is the amount of minerals, metals, organic material and salts that are dissolved in a certain water volume.",approved,JCI Subfields - JCI.xlsx
+descriptor,transducer,"A device that converts energy from one form to another (e.g., sound energy to electrical energy in a microphone, electrical energy to sound energy in a speaker).",approved,JCI Subfields - JCI.xlsx
+descriptor,ultraviolet,"A short wavelength type of light that is beyond the visible spectrum. It is damaging to DNA and cells, and is commonly used to sterilize surfaces.",approved,JCI Subfields - JCI.xlsx
+descriptor,unoccupied,State of being outside of scheduled (time of day or week) run-time parameters.,approved,JCI Subfields - JCI.xlsx
+descriptor,use,"A descriptor for how the entity in question is used (e.g., zone_use_label = 'office').",approved,JCI Subfields - JCI.xlsx
+descriptor,user,A person who uses or operates something.,approved,JCI Subfields - JCI.xlsx
+descriptor,vapor,A substance in the gas phase at a temperature lower than its critical temperature.,approved,JCI Subfields - JCI.xlsx
+descriptor,ventilation,Process used to provide fresh (typically atmospheric) air into a system or zone.,approved,JCI Subfields - JCI.xlsx
+descriptor,waste,An undesirable substance gathered in a fluid as it goes through deliberate applications or processes.,approved,JCI Subfields - JCI.xlsx
+descriptor,voc,"Abbreviation for volatile organic componds, which are groups of chemicals emitted by many household objects like furniture and paint.",approved,JCI Subfields - JCI.xlsx
+descriptor,water,"Water in liquid form, conditioned or unconditioned.",approved,JCI Subfields - JCI.xlsx
+descriptor,west,Cardinal direction; opposite of east,approved,JCI Subfields - JCI.xlsx
+descriptor,wind,Movement of ambient air.,approved,JCI Subfields - JCI.xlsx
+descriptor,window,Transparent part of the facade,approved,JCI Subfields - JCI.xlsx
+descriptor,winter,Method or process used during colder weather (i.e. winter season).,approved,JCI Subfields - JCI.xlsx
+descriptor,wireless,"Devices capable of communication wirelessly through electromagnetic fields.(e.g., wireless_sensors).",approved,JCI Subfields - JCI.xlsx
+descriptor,xaxis,"Horizontal axis of a three-dimensional Cartesian coordinate system (i.e., abscissa).",approved,JCI Subfields - JCI.xlsx
+descriptor,yaxis,"Horizontal axis of a three-dimensional Cartesian coordinate system (i.e., ordinate).",approved,JCI Subfields - JCI.xlsx
+descriptor,zaxis,"Vertical axis of a three-dimensional Cartesian coordinate system (i.e., applicate).",approved,JCI Subfields - JCI.xlsx
+descriptor,zone,Region of building which is conditioned.,approved,JCI Subfields - JCI.xlsx
+measurement,acceleration,The rate of change of velocity per unit of time.,approved,JCI Subfields - JCI.xlsx
+measurement,angle,"The figure formed by two rays, sharing a common endpoint.",approved,JCI Subfields - JCI.xlsx
+measurement,angularmomentum,"The quantity of rotation of a body, which is the product of its moment of inertia and its angular velocity.",approved,JCI Subfields - JCI.xlsx
+measurement,aqi,"Abbreviation for air quality index, which is a set of special standard gradings for the pollution in air.",approved,JCI Subfields - JCI.xlsx
+measurement,area,Amount of space within the perimeter of a two-dimensional shape.,approved,JCI Subfields - JCI.xlsx
+measurement,concentration,Concentration of something relative to something else (usually in parts per million or parts per billion).,approved,JCI Subfields - JCI.xlsx
+measurement,current,Flow of electric charge.,approved,JCI Subfields - JCI.xlsx
+measurement,currentratio,The ratio of primary amps divided by secondary amps.,approved,JCI Subfields - JCI.xlsx
+measurement,density,Amount of mass contained in a unit volume.,approved,JCI Subfields - JCI.xlsx
+measurement,diameter,"A straight line passing from side to side through the center of a body or figure, especially a circle or sphere.",approved,JCI Subfields - JCI.xlsx
+measurement,distance,The length of the space between two points.,approved,JCI Subfields - JCI.xlsx
+measurement,electriccapacitance,The ratio of the change in an electric charge in a system to the corresponding change in its electric potential.,approved,JCI Subfields - JCI.xlsx
+measurement,electricconductance,"The degree to which an object conducts electricity, calculated as the ratio of the current which flows to the potential difference present.",approved,JCI Subfields - JCI.xlsx
+measurement,electricconductivity,"The degree to which a specified material conducts electricity, calculated as the ratio of the current density in the material to the electric field which causes the flow of current.",approved,JCI Subfields - JCI.xlsx
+measurement,electriccurrentdensity,The amount of electric current flowing per unit cross-sectional area of a material.,approved,JCI Subfields - JCI.xlsx
+measurement,electricfield,A region around a charged particle or object within which a force would be exerted on other charged particles or objects.,approved,JCI Subfields - JCI.xlsx
+measurement,electricinductance,The property of an electric conductor or circuit that causes an electromotive force to be generated by a change in the current flowing.,approved,JCI Subfields - JCI.xlsx
+measurement,electricphasedifference,The angular difference by which a wave leads by or lags by another wave.,approved,JCI Subfields - JCI.xlsx
+measurement,electricfieldstrength,Quantitative expression of the intensity of an electric field at a particular location.,approved,JCI Subfields - JCI.xlsx
+measurement,electricresistivity,A measure of the resisting power of a specified material to the flow of an electric current.,approved,JCI Subfields - JCI.xlsx
+measurement,energy,The quantitative property that must be transferred to an object to perform work (default electrical unless otherwise modified).,approved,JCI Subfields - JCI.xlsx
+measurement,energydensity,"The amount of energy stored in a given system, substance, or region of space per unit volume.",approved,JCI Subfields - JCI.xlsx
+measurement,entropy,A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work.,approved,JCI Subfields - JCI.xlsx
+measurement,flowrate,Rate of fluid movement.,approved,JCI Subfields - JCI.xlsx
+measurement,force,An influence tending to change the motion of a body or produce motion or stress in a stationary body.,approved,JCI Subfields - JCI.xlsx
+measurement,frequency,The rate of cycling within a process. Typically used to describe voltage (and amperage) oscillation within AC power distribution components.,approved,JCI Subfields - JCI.xlsx
+measurement,humidity,Concentration of water vapor in air (conditioned or unconditioned).,approved,JCI Subfields - JCI.xlsx
+measurement,illuminance,Measurement of light.,approved,JCI Subfields - JCI.xlsx
+measurement,impulse,A force acting briefly on a body and producing a finite change of momentum.,approved,JCI Subfields - JCI.xlsx
+measurement,irradiance,The flux of radiant energy per unit area (normal to the direction of flow of radiant energy through a medium).,approved,JCI Subfields - JCI.xlsx
+measurement,length,The measurement or extent of something from end to end.,approved,JCI Subfields - JCI.xlsx
+measurement,level,The height of something with regard to a datum (e.g. the water level of a tank relative to the bottom).,approved,JCI Subfields - JCI.xlsx
+measurement,linearacceleration,Time rate of change of linear velocity.,approved,JCI Subfields - JCI.xlsx
+measurement,linearvelocity,"The rate of change of displacement with respect to time. For example, wind speed represents the linear velocity of the wind.",approved,JCI Subfields - JCI.xlsx
+measurement,luminance,The intensity of light emitted from a surface per unit area in a given direction.,approved,JCI Subfields - JCI.xlsx
+measurement,luminousflux,Measure of the perceived power of light.,approved,JCI Subfields - JCI.xlsx
+measurement,luminousintensity,Measure of the wavelength-weighted power emitted by a light source in a particular direction per unit solid angle.,approved,JCI Subfields - JCI.xlsx
+measurement,magneticflux,Surface integral of the normal component of the magnetic field over a surface.,approved,JCI Subfields - JCI.xlsx
+measurement,magneticinduction,"Vector field that wdescribes the magnetic influence on moving electric charges, electric currents and magnetic materials.",approved,JCI Subfields - JCI.xlsx
+measurement,magneticmoment,"Measure of the magnetic strength of a magnet or current-carrying coil, expressed as the torque produced when the magnet or coil is set with its axis perpendicular to unit magnetic flux density.",approved,JCI Subfields - JCI.xlsx
+measurement,mass,"The quantity of matter which a body contains, as measured by its acceleration under a given force or by the force exerted on it by a gravitational field.",approved,JCI Subfields - JCI.xlsx
+measurement,massconcentration,"Concentration by mass (e.g., grams per kilogram).",approved,JCI Subfields - JCI.xlsx
+measurement,massflow,Movement of fluids down a pressure or temperature gradient.,approved,JCI Subfields - JCI.xlsx
+measurement,obscuration,Degree of shading.,approved,JCI Subfields - JCI.xlsx
+measurement,percentage,Measurement per hundred.,approved,JCI Subfields - JCI.xlsx
+measurement,powerfactor,Ratio of real and apparent power.,approved,JCI Subfields - JCI.xlsx
+measurement,power,"Rate of energy consumption (assumed context is electrical and real, unless otherwise modified).",approved,JCI Subfields - JCI.xlsx
+measurement,powerflux,"Energy emitted, reflected, transmitted or received per unit time.",approved,JCI Subfields - JCI.xlsx
+measurement,pressure,Measured force per unit area within a system or process.,approved,JCI Subfields - JCI.xlsx
+measurement,pressurechange,Change of pressure per temperature.,approved,JCI Subfields - JCI.xlsx
+measurement,rate,ratio of change compared to a step or time.,approved,JCI Subfields - JCI.xlsx
+measurement,resistance,Electrical resistance.,approved,JCI Subfields - JCI.xlsx
+measurement,rotationalvelocity,"Vector measure of rotation rate, that refers to how fast an object rotates or revolves relative to another point.",approved,JCI Subfields - JCI.xlsx
+measurement,specificenergy,Energy per unit mass.,approved,JCI Subfields - JCI.xlsx
+measurement,specificenthalpy,Measure of energy of air per unit mass.,approved,JCI Subfields - JCI.xlsx
+measurement,soundpressurelevel,Logarithmic measure of the sound intensity in comparison to a reference value (1e10-12 W/m^2).,approved,JCI Subfields - JCI.xlsx
+measurement,temperature,Measures the temperature of media within a process or system.,approved,JCI Subfields - JCI.xlsx
+measurement,thermalconductivity,Measure of a material's ability to conduct heat.,approved,JCI Subfields - JCI.xlsx
+measurement,thermalcapacity,Amount of heat to be supplied to an object to produce a unit change in its temperature.,approved,JCI Subfields - JCI.xlsx
+measurement,thermaltransmittance,Rate of transfer of heat through matter. ,approved,JCI Subfields - JCI.xlsx
+measurement,time,Defined duration of something.,approved,JCI Subfields - JCI.xlsx
+measurement,timetemperature,Integral of temperature over time.,approved,JCI Subfields - JCI.xlsx
+measurement,torque,A force that causes rotation around an axis.,approved,JCI Subfields - JCI.xlsx
+measurement,voltage,Electrical potential difference between two reference points.,approved,JCI Subfields - JCI.xlsx
+measurement,voltageratio,The ratio of the Primary voltage of the transformer to the secondary voltage.,approved,JCI Subfields - JCI.xlsx
+measurement,volume,The quantity of three-dimensional space contained by a closed surface.,approved,JCI Subfields - JCI.xlsx
+measurement,volumetricconcentration,Concentration in terms of volume (measured in parts per unit volume).,approved,JCI Subfields - JCI.xlsx
+measurement,xvalue,X-value of a matrix.,approved,JCI Subfields - JCI.xlsx
+measurement,yvalue,Y-value of a matrix.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,absolute,"Quality of media with respect to non-relativistic boudaries (e.g., absolute temperature).",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,apparent,The combination of reactive and real components (power).,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,brightness,Giving out or reflecting light; overall level of light in a space.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,charge,"The state of power storage (e.g., charged, not charged, discharged)",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,closed,Indicates full closed (typically used for two-position actuators).,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,condensation,The change of the state of matter from the gas phase into the liquid phase.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,deadband,Represents a range in which the controller does not do anything.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,dewpoint,The thermodynamic point at which water condenses from standing air.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,differential,Measured difference between two reference points (e.g. differential_water_pressure),approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,down,"The direction of a spatial movement, opposite of up.",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,dynamic,Describing a system which is unstable or constantly changing (e.g. supply_air_dynamic_pressure_sensor).,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,efficiency,The ratio of required input to actual output. ,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,end,"Indicates a final part of something, especially a period of time.",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,extent,The range over which something has spread.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,fade,"Descending change of a value (e.g., lighting fade).",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,hue,Number on a color wheel from 0 to 360°.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,lost,Indicates that a point has lost some quality or quantity inadvertently.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,match,A function that matches something against others.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,motion,Detectable movement of a thing.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,index,"An integer which indicates the location of a particular data point in a list or numbered set (e.g., index 1 of ['a','b','c'] would return 'b', assuming the indexing starts at 0).",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,offset,The amount or distance by which something is deviating from some threshold or baseline.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,open,Indicates full open (for two-position actuators). This is the default sense if unspecified.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,operating,State when a device is active.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,orientation,Description of cardinal direction.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,position,"A particular way in which something is placed or arranged, such as a door in the open position.",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,probability,The extent to which something is probable; the likelihood of something happening or being the case.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,reactive,"Power that is returned to the source (i.e., not consumed by the load).",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,relative,"Quality of media with respect to theoretical minimum or maximum value for a given condition (e.g., relative humidity).",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,run,"State of being active or operating. By default applies to control program for system (e.g., VAV program run_command).",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,saturation,Point at which no more of a material can be absorbed into another material.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,speed,"Numeric setting of how fast to run a device, in the specified units. Typically used to describe revolutions of a motor as a fraction of nominal or maximum.",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,start,Indicates a point in time or space at which something has its origin or beginning.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,static,"Describing a system in equilibrium or at rest (e.g., supply_air_static_pressure_sensor).",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,subcooling,The amount a liquid is cooled below its saturation point.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,superheat,The amount a gas is heated above its boiling point wihtout vaporization.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,test,"A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use.",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,thermal,Relating to the transfer of heat.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,tilt,Degree of radial rotation.,approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,up,"The direction of a spatial movement, opposite of down.",approved,JCI Subfields - JCI.xlsx
+measurement_descriptor,wetbulb,Describes air temperature measured at 100% relative humidity (saturation).,approved,JCI Subfields - JCI.xlsx
+point_type,accumulator,"The total accumulated quantity (e.g., total energy accumulated).",approved,JCI Subfields - JCI.xlsx
+point_type,alarm,"A point that interprets some input values qualitatively (e.g., as good or bad, normal or in alarm, etc.). Alarms are always binary.",approved,JCI Subfields - JCI.xlsx
+point_type,capacity,"A design parameter quantity (e.g., design motor power capacity). Is always a maximum limit.",approved,JCI Subfields - JCI.xlsx
+point_type,counter,"Special case of accumulator that assumes integer values and non-dimensional units. For example, the field message_counter increments in integers whenever a message is sent.",approved,JCI Subfields - JCI.xlsx
+point_type,command,The signal given to make an action happen. Defaults to multistate unless used alongside a measurement_type.,approved,JCI Subfields - JCI.xlsx
+point_type,count,Total count of actions or requests.,approved,JCI Subfields - JCI.xlsx
+point_type,label,Identifying alias for component or system.,approved,JCI Subfields - JCI.xlsx
+point_type,mode,Distinct mode of operation within system. For example economizer_mode has modes of 'enabled' or 'disabled.',approved,JCI Subfields - JCI.xlsx
+point_type,requirement,"A lower limit design parameter (e.g., minimum flowrate requirement). Is always a lower limit.",approved,JCI Subfields - JCI.xlsx
+point_type,sensor,"Component used to measure some quality of a system or process. In some instances, it can be feedback for an analog command (e.g., speed_percentage_sensor is the feedback from speed_percentage_command).",approved,JCI Subfields - JCI.xlsx
+point_type,setpoint,Control target of process or system.,approved,JCI Subfields - JCI.xlsx
+point_type,status,"The multistate value indicating an observed state in a piece of equipment, often indicating if a command was effected. It is a neutral observation (i.e., no quality judgment of 'good' or 'bad'). It also has no units of measurement; therefore, if combined with a measurement subfield, it will indicate that the field is the directional status based on some measurement of that type (e.g., power_status equates to an on/off value based on some inference of power).",approved,JCI Subfields - JCI.xlsx
+point_type,specification,"The specified design value for a particular operating condition (e.g., differential pressure specification).",approved,JCI Subfields - JCI.xlsx
+point_type,timestamp,"An instant in time, represented as a numeric offset from the epoch.",approved,JCI Subfields - JCI.xlsx

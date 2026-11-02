@@ -1,0 +1,8 @@
+position,section,requirement,examples
+1,aggregation_descriptor,Optional; required when aggregation is used,daily; fivesecond; fivesecondrolling
+2,aggregation,Optional,average; max; min
+3,descriptor,Optional,discharge; return; zone; primary; chilled
+4,component,Optional,valve; fan; damper
+5,measurement_descriptor,Optional,differential; relative; static
+6,measurement,Optional,temperature; flowrate; flowvolume
+7,point_type,Required,sensor; setpoint; status; command; count; accumulator

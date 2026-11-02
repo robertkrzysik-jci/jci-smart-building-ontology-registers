@@ -1,0 +1,12 @@
+{
+  "generated_from": [
+    "Entity Abbreviations.xlsx",
+    "Subfields - JCI.xlsx",
+    "approved subfield abbreviation register",
+    "user-supplied DBO screenshots"
+  ],
+  "external_references": [
+    "https://github.com/theodi/BDNS/blob/main/BDNS_Abbreviations_Register.csv",
+    "https://github.com/google/digitalbuildings"
+  ]
+}
