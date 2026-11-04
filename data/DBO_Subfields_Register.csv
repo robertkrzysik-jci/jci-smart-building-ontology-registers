@@ -252,6 +252,10 @@ descriptor,xaxis,"Horizontal axis of a three-dimensional Cartesian coordinate sy
 descriptor,yaxis,"Horizontal axis of a three-dimensional Cartesian coordinate system (i.e., ordinate).",approved,JCI Subfields - JCI.xlsx
 descriptor,zaxis,"Vertical axis of a three-dimensional Cartesian coordinate system (i.e., applicate).",approved,JCI Subfields - JCI.xlsx
 descriptor,zone,Region of building which is conditioned.,approved,JCI Subfields - JCI.xlsx
+descriptor,space,added under SSD project, approved,JCI Subfields - JCI.xlsx
+descriptor,auto,Automatic mode, where the equipment operates based on signals from a controller, such as a Building Management System (BMS) or Programmable Logic Controller (PLC), approved,JCI Subfields - JCI.xlsx
+descriptor,hand,Manual mode where the equipment can be operated directly by the user, approved,JCI Subfields - JCI.xlsx
+descriptor,off,The equipment is turned off and neither manual nor automatic control is allowed., approved,JCI Subfields - JCI.xlsx
 measurement,acceleration,The rate of change of velocity per unit of time.,approved,JCI Subfields - JCI.xlsx
 measurement,angle,"The figure formed by two rays, sharing a common endpoint.",approved,JCI Subfields - JCI.xlsx
 measurement,angularmomentum,"The quantity of rotation of a body, which is the product of its moment of inertia and its angular velocity.",approved,JCI Subfields - JCI.xlsx
